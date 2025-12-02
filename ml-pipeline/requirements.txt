@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+kagglehub
+psycopg2-binary
+matplotlib
